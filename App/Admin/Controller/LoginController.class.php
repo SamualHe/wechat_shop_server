@@ -15,6 +15,7 @@ class LoginController extends PublicController{
 			if($admininfo){
 				if(MD5(MD5($_POST['pwd']))==$admininfo['pwd']){
 					$admin=array(
+
 					   "id"         =>$admininfo["id"],
 					   "name"       =>$admininfo["name"],
 					   "qx"         =>$admininfo["qx"],

@@ -10,4 +10,4 @@
 
 后台登录的用户名是admin，密码是123456
 
-小程序源码：https://github.com/hxxy2003/wechat_shop_xcx
+小程序源码：https://github.com/SamualHe/wechat_shop_client.git
